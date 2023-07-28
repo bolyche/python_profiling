@@ -1,0 +1,10 @@
+# Bytecode
+__pycache__/
+
+# Environments
+.venv
+env/
+venv/
+
+# Temporary files
+temp/
